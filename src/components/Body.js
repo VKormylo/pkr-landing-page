@@ -5,7 +5,7 @@ import { styles } from "../styles/style";
 const Body = () => {
   return (
     <main style={styles.body}>
-      <Card name="Vitaliy Kormylo" position="Frontend Developer" />
+      {/* Paste your card components here like this <Card name="..." position="..." /> */}
     </main>
   );
 };
